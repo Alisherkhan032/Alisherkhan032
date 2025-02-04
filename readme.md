@@ -4,11 +4,10 @@
 
 💻 Passionate about **building scalable web applications** and solving **real-world problems** with technology.  
 
-📞 **Contact:** +91-8433406826  
 
 📧 **Email:** [alisherkhan032@gmail.com](mailto:alisherkhan032@gmail.com)  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/alisherkhan032/) • [GitHub](https://github.com/Alisherkhan032)  
+• [GitHub](https://github.com/Alisherkhan032)  
 
 ---
 
