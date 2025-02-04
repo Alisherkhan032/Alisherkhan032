@@ -4,11 +4,11 @@
 
 💻 Passionate about **building scalable web applications** and solving **real-world problems** with technology.  
 
-📍 Currently exploring **AI-powered applications** and **backend optimizations**.  
-
 📞 **Contact:** +91-8433406826  
+
 📧 **Email:** [alisherkhan032@gmail.com](mailto:alisherkhan032@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/alisherkhan032/) • [GitHub](https://github.com/Alisherkhan032)  
 
 ---
 
@@ -40,23 +40,34 @@
 
 ## 🚀 Projects  
 
+Here’s your updated project list with repository links:  
+
+---
+
 ### 🍔 **Urban-Eats**  
 🛠️ *React | Node.js | Express | MongoDB | Redux | Tailwind CSS*  
 ✔️ **Cafeteria management app** with **role-based authentication** for customers, merchants, and admins.  
 ✔️ **Full CRUD operations** on food counters & dishes, with **backend filtering and pagination**.  
 ✔️ Leveraged the **MERN stack**, managed global state with **Redux**, and used **Tailwind CSS** for a sleek UI.  
+🔗 [GitHub Repository](https://github.com/Alisherkhan032/cafeteria-frontend)  
+
+---
 
 ### 🎬 **PopcornGPT**  
 🛠️ *React | CSS | Firebase | Redux*  
 ✔️ AI-powered **movie recommendation system** with a sleek UI.  
 ✔️ Integrated **Gemini AI & The Movie Database API** to suggest personalized movies.  
 ✔️ Used **Firebase authentication & real-time database**, while managing state with **Redux**.  
+🔗 [GitHub Repository](https://github.com/Alisherkhan032/popcornGpt)  
+
+---
 
 ### 🛒 **Smart-Cart**  
 🛠️ *React | HTML | CSS*  
 ✔️ **E-commerce website** with product browsing & **cart management**.  
 ✔️ **Dynamic state management** using **React’s Context API** for smooth cart operations.  
 ✔️ Built with **reusable React components** for a **scalable and modular codebase**.  
+🔗 [GitHub Repository](https://github.com/Alisherkhan032/smart-cart)  
 
 ---
 
