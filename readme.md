@@ -7,7 +7,8 @@
 
 📧 **Email:** [alisherkhan032@gmail.com](mailto:alisherkhan032@gmail.com)  
 
-• [GitHub](https://github.com/Alisherkhan032)  
+• [LinkedIn](https://www.linkedin.com/in/alisherkhan032/)  
+
 
 ---
 
