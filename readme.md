@@ -13,15 +13,7 @@
 
 ## 💼 Experience  
 
-### 🔹 Fullstack Developer Intern | Muul.us  
-✔️ Revamped the **website UI from scratch**, enhancing **usability, accessibility, and user experience**.  
-✔️ Designed and developed an **executive dashboard**, providing **real-time insights** into product performance.  
-✔️ Built **robust APIs** using **Node.js & Express**, integrating front-end & database for seamless communication.  
-
-### 🔹 Web Development Intern | Explorin.io  
-✔️ Developed **responsive and high-performance web apps**.  
-✔️ Hands-on experience with **cutting-edge web development tools**.  
-✔️ **Tech Stack:** ReactJS, NodeJS, MongoDB, Express, Postman, Git/GitHub, HTML, CSS, JavaScript.  
+### 🔹 SDE | Girman Technologies  
 
 ---
 
